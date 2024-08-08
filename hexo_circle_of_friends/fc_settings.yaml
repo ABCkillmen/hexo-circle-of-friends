@@ -36,7 +36,7 @@ SETTINGS_FRIENDS_LINKS: {
         # 示例1：
         ["简简", "https://jwt1399.top", "https://jwt1399.top/favicon.png"],
         ["xiaoxuu", "https://xaoxuu.com/", "https://bu.dusays.com/2021/09/24/2f74810ceb3d3.png"],
-        ["钟意", "https://blog.thatcoder.cn/", "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp"]
+        ["钟意", "https://blog.thatcoder.cn/", "https://upyun.thatcdn.cn/hexo/stellar/image/favicon.webp"],
         ["苏末了", "https://sumorio.com/", "https://cdn.jsdelivr.net/gh/Sumorio/BlogPic/01d44c8e1aa35513951cffcac10b12f9.jpg"]
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
