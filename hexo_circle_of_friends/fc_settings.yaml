@@ -31,7 +31,7 @@ LINK: [
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
     enable: false,
-    json_api: "https://api.vlts.cc/output_data/v2/ABCkillmen/issues-json-generator",
+    json_api: "",
     list: [
         # 示例1：
         ["简简", "https://jwt1399.top", "https://jwt1399.top/favicon.png"],
